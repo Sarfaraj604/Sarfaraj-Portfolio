@@ -19,8 +19,10 @@
     "three": "latest"
   },
   "devDependencies": {
+    "@types/react": "^19.2.18",
     "@vitejs/plugin-react": "latest",
     "autoprefixer": "latest",
+    "csstype": "^3.2.3",
     "postcss": "latest",
     "tailwindcss": "^3.4.17",
     "vite": "latest"
