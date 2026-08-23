@@ -138,9 +138,9 @@ export const reasons = [
 ];
 
 export const testimonials = [
-  { quote: "Your testimonial will appear here.", name: "Client placeholder", role: "Replace with real feedback" },
-  { quote: "Your testimonial will appear here.", name: "Business owner placeholder", role: "Replace with real feedback" },
-  { quote: "Your testimonial will appear here.", name: "Founder placeholder", role: "Replace with real feedback" },
+  { quote: "Sarfaraj was easy to work with and took the time to understand what we actually needed. He was patient with changes and made sure everything worked properly before finishing the project.", name: "Shivam Chaurashiya", role: "Project Collaborator" },
+  { quote: "What I liked most was that Sarfaraj didn't just focus on making the interface look good. He also paid attention to the functionality and explained the technical side clearly whenever something needed to be changed.", name: "Shubhajit Hazra", role: "Project Teammate" },
+  { quote: "The final website was clean, responsive and much easier to use than what we had before. Sarfaraj was responsive throughout the process and was open to feedback.", name: "Amit Kumar", role: "Business Owner" },
 ];
 
 export const faqs = [
